@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+.card{
+  float: left;
+  margin-left: 25px;
+  margin-top: 20px;
+  
+}
+
+/*admin*/
+.T2{
+width: 200px;
+
+}
+
+.T4{
+  width: 500px;
+
+}
+.Add{
+  margin-left: 230px;
+}
+.chitiet{
+	margin-left: 50px;
+	margin-top: 20px;
+}
